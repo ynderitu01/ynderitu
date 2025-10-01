@@ -1,6 +1,6 @@
 <h1>Hi, I'm Yvonne, an <a href="https://linkedin.com/in/yvonne-nderitu-7a2513313">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
